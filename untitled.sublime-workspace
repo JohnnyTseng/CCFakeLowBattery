@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LA",
+				"LAPhotoViewDataSource"
+			],
+			[
+				"cr",
+				"cursor"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ccfakelowbattery/Makefile",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/theos.sublime-build",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Run"
+			]
+		],
+		"width": 422.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/ccfakelowbattery/Resources/CCFakeLowBattery.plist",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/Resources/Info.plist",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/Toggle.xm",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/Makefile",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/control",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/CCTogglesAgent.h",
+		"/Users/johnny/Desktop/Cydia's/MyAssistive-master/Resources/MyAssistive.plist",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/ccfakelowbattery/Makefile",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/ccfakelowbattery/CCFakeLowBattery.mm",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/ccfakelowbattery/obj/CCFakeLowBattery.bundle/CCFakeLowBattery.plist",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/untitled.sublime-project",
+		"/Users/johnny/Desktop/Cydia's/Share2Weibo-master/photopluginsettings/Resources/photopluginauthorize.plist",
+		"/Users/johnny/Desktop/Cydia's/Share2Weibo-master/photopluginsettings/entry.plist",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/com.johnnychian.fakelowbatt_1.0-69_iphoneos-arm.deb",
+		"/Users/johnny/Desktop/CloakStatus.plist",
+		"/Users/johnny/Desktop/filtershot/Makefile",
+		"/Users/johnny/Library/Application Support/Sublime Text 2/Packages/User/theos.sublime-build",
+		"/Users/johnny/Library/Application Support/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/Users/johnny/Desktop/buy_iphone/GLSegmentedControl.m",
+		"/Users/johnny/Library/Application Support/Sublime Text 2/Packages/SublimeClang/Default.sublime-keymap",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/fakebattsettings/Makefile",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/fakebattsettings/FakeBattSettings.mm",
+		"/Users/johnny/Desktop/SHUDPreference.plist",
+		"/Users/johnny/Desktop/Settings.plist",
+		"/Users/johnny/Desktop/1.html",
+		"/Users/johnny/Desktop/iNoBattery/inobattery/inobatttoggle/Toggle.xm",
+		"/Users/johnny/Desktop/fakelowbatterycctoggle/Tweak.xm",
+		"/Users/johnny/Desktop/iNoBattery/inobattery/inobatttoggle/Makefile",
+		"/Users/johnny/Desktop/iNoBattery/inobattery/Makefile",
+		"/Users/johnny/Desktop/iNoBattery/inobattery/Tweak.xm",
+		"/Users/johnny/Desktop/iNoBattery/inobattery/com.johnny.inobattery_0.0.1-47_iphoneos-arm.deb",
+		"/Users/johnny/Desktop/LineTweak/linetweak/Makefile",
+		"/Users/johnny/Desktop/linevibrate/Tweak.xm",
+		"/Users/johnny/Desktop/linevibrate/Makefile",
+		"/Users/johnny/Desktop/LineTweak/linetweak/Tweak.xm",
+		"/Users/johnny/Desktop/quickdim/Makefile",
+		"/Users/johnny/Desktop/FareCalculate/AirshipConfig.plist",
+		"/Users/johnny/Desktop/quickdim/Tweak.xm",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoViewController.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LABaseViewController.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LineTweak.plist",
+		"/Users/johnny/Desktop/LineTweak/linetweak/linesettings/Resources/LineSettings.plist",
+		"/Users/johnny/Desktop/LineTweak/linetweak/linesettings/entry.plist",
+		"/Users/johnny/Desktop/LineTweak/linetweak/control",
+		"/Users/johnny/Desktop/LineTweak/linetweak/linesettings/LineSettings.mm",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoNavigationViewDelegate.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoViewDataSource.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoInfoViewDelegate.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoInfoView.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoBottomBarViewDelegate.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoBottomBarView.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPagingScrollViewDelegate.h",
+		"/Users/johnny/Desktop/LineTweak/linetweak/LAPhotoNavigationView.h",
+		"/Users/johnny/Desktop/MapsOpener-master/Tweak.xm",
+		"/Users/johnny/Desktop/firstjb/Tweak.xm",
+		"/Users/johnny/Desktop/Auto-HDR-Enabler-master/Makefile",
+		"/Users/johnny/.Trash/DeleteAllSMS-master/Tweak.xm",
+		"/Users/johnny/.Trash/firstjb 10-00-08-178/Tweak.xm",
+		"/Users/johnny/Desktop/firstjb/Makefile",
+		"/firstjb/FirstJB.plist",
+		"/firstjb/Makefile",
+		"/firstjb/Tweak.xm",
+		"/Users/johnny/Desktop/aa.html",
+		"/Users/johnny/Desktop/example.html",
+		"/Users/johnny/Desktop/資訊概論/index.html",
+		"/Users/johnny/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"default",
+			"List",
+			"LineTweak",
+			"lastSeenEnabled"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"LineDelayLock"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ccfakelowbattery/Makefile",
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								575,
+								575
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 115.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true
+}

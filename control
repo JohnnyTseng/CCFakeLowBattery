@@ -1,0 +1,9 @@
+Package: com.johnnychian.fakelowbatt
+Name: CCFakeLowBattery
+Depends: mobilesubstrate, kr.slak.cctoggles
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A simple CCToggle to let you fake your battery percentage!
+Maintainer: JohnnyChian
+Author: JohnnyChian
+Section: Addons (CCToggles)

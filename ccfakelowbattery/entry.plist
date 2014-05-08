@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = CCFakeLowBattery;
+	cell = PSLinkCell;
+	detail = CCFakeLowBatteryListController;
+	icon = Icon.png;
+	isController = 1;
+	label = CCFakeLowBattery;
+    };
+}
